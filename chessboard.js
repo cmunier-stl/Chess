@@ -7,7 +7,7 @@
  *
  * Date: $date$
  */
-
+ 
 // start anonymous scope
 ;(function() {
 'use strict';
